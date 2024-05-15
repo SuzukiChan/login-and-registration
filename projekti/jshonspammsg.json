@@ -1,0 +1,11 @@
+
+[
+    {
+        "sender_id": 1,
+        "message": "This is a spam message with the word 'spam' in it."
+    },
+    {
+        "sender_id": 2,
+        "message": "This is a normal message."
+    }
+]
