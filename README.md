@@ -6,11 +6,6 @@ Getting Started
 To get started with this project, follow the steps below:
 Prerequisites
 
-Make sure you have the following installed:
-
-    PHP (version X.X or higher)
-    MySQL or any other compatible database
-
 Installation
 
     Clone this repository to your local machine:
